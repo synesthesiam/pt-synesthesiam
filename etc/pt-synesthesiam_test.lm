@@ -1,0 +1,192 @@
+
+\data\
+ngram 1=34
+ngram 2=63
+ngram 3=82
+
+\1-grams:
+-99	<s>	-1.505206
+-0.770852	</s>
+-2.071882	como	-0.2973338
+-2.372912	estará	-0.2860528
+-1.469822	o	-2.97343
+-2.071882	tempo	-0.2973338
+-2.372912	amanhã	-0.2203741
+-2.372912	está	-0.2860528
+-2.372912	hoje	-0.2203741
+-2.372912	que	-0.2991859
+-2.372912	horas	-0.2991859
+-2.372912	são	-0.2203741
+-1.594761	acenda	-1.000801
+-1.594761	apague	-1.000801
+-1.293731	ligue	-0.9548007
+-1.293731	desligue	-0.9548007
+-1.258969	a	-1.356045
+-1.469822	lâmpada	-2.969511
+-1.168792	luz	-2.936707
+-1.168792	da	-2.9695
+-1.469822	sala	-2.985023
+-1.469822	de	-2.985023
+-1.469822	estar	-2.919344
+-1.168792	do	-2.969515
+-1.293731	quarto	-2.919344
+-1.469822	cozinha	-2.919344
+-2.372912	qual	-0.2991859
+-2.372912	é	-0.2764228
+-2.372912	temperatura	-0.2991859
+-2.372912	externa	-0.2203741
+-1.770852	ventilador	-2.969511
+-1.469822	ar	-2.985023
+-1.770852	escritório	-2.919344
+-1.469822	condicionado	-2.88235
+
+\2-grams:
+-1.301464	<s> como	-0.1962946
+-1.90309	<s> que	-0.1962947
+-0.8243433	<s> acenda	0.3463846
+-0.8243433	<s> apague	0.3463846
+-0.5233133	<s> ligue	0.3463846
+-0.5233133	<s> desligue	0.3463846
+-1.90309	<s> qual	-0.1962947
+-0.60206	como estará	-0.1962947
+-0.60206	como está	-0.1962947
+-0.30103	estará o	-0.3725307
+-0.6024945	o tempo	-0.1962946
+-0.6024945	o ventilador	2.60206
+-0.3014645	o ar	2.935059
+-0.60206	tempo amanhã	-0.1962947
+-0.60206	tempo hoje	-0.1962947
+-0.30103	amanhã </s>
+-0.30103	está o	-0.3725307
+-0.30103	hoje </s>
+-0.30103	que horas	-0.1962947
+-0.30103	horas são	-0.1962947
+-0.30103	são </s>
+-0.3014645	acenda a	0.6801545
+-1.079181	acenda lâmpada	2.502675
+-0.4775558	acenda luz	2.502665
+-0.3014645	apague a	0.6801545
+-1.079181	apague lâmpada	2.502675
+-0.4775558	apague luz	2.502665
+-0.6024945	ligue o	0.1721502
+-0.6024945	ligue a	0.6801545
+-1.380211	ligue lâmpada	2.502675
+-0.7785858	ligue luz	2.502665
+-1.380211	ligue ventilador	2.502675
+-0.7785858	ligue ar	2.60206
+-0.6024945	desligue o	0.1721502
+-0.6024945	desligue a	0.6801545
+-1.380211	desligue lâmpada	2.502675
+-0.7785858	desligue luz	2.502665
+-1.380211	desligue ventilador	2.502675
+-0.7785858	desligue ar	2.60206
+-0.5123178	a lâmpada	2.935059
+-0.2112878	a luz	2.935048
+-1.414973	a temperatura	-0.1962947
+-0.0004345118	lâmpada da	-2.699404
+-0.3014645	luz da	-2.699404
+-0.3014645	luz do	-2.399241
+-0.3014645	da sala	-0
+-0.3014645	da cozinha	-0
+-0.0004345118	sala de	-0
+-0.0004345118	de estar	-0
+-0.0004345118	estar </s>
+-0.1253732	do quarto	-0
+-0.6024945	do escritório	2.935059
+-0.0004345118	quarto </s>
+-0.0004345118	cozinha </s>
+-0.30103	qual é	-0.1962947
+-0.30103	é a	-0.4802913
+-0.30103	temperatura externa	-0.1962947
+-0.30103	externa </s>
+-0.0004345118	ventilador do	0.05985319
+-0.0004345118	ar condicionado	2.935048
+-0.0004345118	escritório </s>
+-0.3014645	condicionado </s>
+-0.3014645	condicionado do	0.5358183
+
+\3-grams:
+-0.4673614	<s> como estará
+-0.4673614	<s> como está
+-0.1663314	<s> que horas
+-0.3014645	<s> acenda a
+-0.9444827	<s> acenda lâmpada
+-0.69897	<s> acenda luz
+-0.3014645	<s> apague a
+-0.9444827	<s> apague lâmpada
+-0.69897	<s> apague luz
+-0.6024945	<s> ligue o
+-0.6024945	<s> ligue a
+-1.245513	<s> ligue lâmpada
+-1	<s> ligue luz
+-1.245513	<s> ligue ventilador
+-1	<s> ligue ar
+-0.6024945	<s> desligue o
+-0.6024945	<s> desligue a
+-1.245513	<s> desligue lâmpada
+-1	<s> desligue luz
+-1.245513	<s> desligue ventilador
+-1	<s> desligue ar
+-0.1663314	<s> qual é
+-0.1663314	como estará o
+-0.1663314	como está o
+-0.1663314	estará o tempo
+-0.4673614	o tempo amanhã
+-0.4673614	o tempo hoje
+-0.2218488	o ventilador do
+-0.8573325	o ar condicionado
+-0.1663314	tempo amanhã </s>
+-0.1663314	tempo hoje </s>
+-0.1663314	está o tempo
+-0.1663314	que horas são
+-0.1663314	horas são </s>
+-0.6434527	acenda a lâmpada
+-0.39794	acenda a luz
+-0.1663314	acenda lâmpada da
+-0.4673614	acenda luz da
+-0.4673614	acenda luz do
+-0.6434527	apague a lâmpada
+-0.39794	apague a luz
+-0.1663314	apague lâmpada da
+-0.4673614	apague luz da
+-0.4673614	apague luz do
+-0.6434527	ligue o ventilador
+-0.39794	ligue o ar
+-0.6434527	ligue a lâmpada
+-0.39794	ligue a luz
+-0.1663314	ligue lâmpada da
+-0.4673614	ligue luz da
+-0.4673614	ligue luz do
+-0.1663314	ligue ventilador do
+-0.2218488	ligue ar condicionado
+-0.6434527	desligue o ventilador
+-0.39794	desligue o ar
+-0.6434527	desligue a lâmpada
+-0.39794	desligue a luz
+-0.1663314	desligue lâmpada da
+-0.4673614	desligue luz da
+-0.4673614	desligue luz do
+-0.1663314	desligue ventilador do
+-0.2218488	desligue ar condicionado
+-0.8573325	a lâmpada da
+-1.158362	a luz da
+-1.158362	a luz do
+-0.1663314	a temperatura externa
+-0.0004345118	lâmpada da sala
+-0.0004345118	luz da cozinha
+-0.0004345118	luz do quarto
+-0.0004345118	da sala de
+-0.0004345118	da cozinha </s>
+-0.0004345118	sala de estar
+-0.0004345118	de estar </s>
+-0.0004345118	do quarto </s>
+-0.8573325	do escritório </s>
+-0.1663314	qual é a
+-0.1663314	é a temperatura
+-0.1663314	temperatura externa </s>
+-0.8573325	ventilador do escritório
+-1.158362	ar condicionado </s>
+-1.158362	ar condicionado do
+-0.8573325	condicionado do quarto
+
+\end\

@@ -1,0 +1,16 @@
+.venv/
+bwaccumdir/
+feat/
+logdir/
+model_architecture/
+qmanager/
+result/
+trees/
+wav/
+model_parameters/
+data/lapsbm/
+data/sid/
+data/voxforge-ptbr/
+*.html
+*.lm.DMP
+.ipynb_checkpoints/

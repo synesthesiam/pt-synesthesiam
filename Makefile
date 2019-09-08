@@ -1,0 +1,2 @@
+all:
+	sphinxtrain run
